@@ -34,17 +34,4 @@ Approaches or solutions that have been tried before on similar projects.
 - Outcomes: Demonstrated plasma protein clocks serve as efficient proxies for systemic physiological capacity. Cross-layer analysis validated molecular signatures against functional decline. Identified age-dependent accumulation of coagulation factors as novel driver of multi-organ senescence and systemic inflammatory activation. Framework bridges molecular biomarkers with clinical function.
 - Relation to the Project: Most directly relevant multimodal integration framework. Three-tiered architecture (organismal, multimodal, organ-specific) provides template for UK Biobank implementation. Demonstrates value of cross-layer validation between molecular and clinical measures. Coagulation pathway findings suggest mechanistic targets worth investigating.
 
----
 
-## Identified Gaps
-
-Based on the literature review, this project addresses the following gaps:
-
-1. **Limited multimodal integration on UK Biobank**: The mCAS multimodal framework was developed on a Chinese cohort. No equivalent comprehensive multimodal clock exists for UK Biobank despite availability of clinical, proteomic, metabolomic, and imaging data on the same individuals.
-
-2. **Single-modality dominance**: Existing UK Biobank clocks operate on proteomics OR metabolomics OR imaging separately. Integration of multiple modalities from the same participants remains unexplored.
-
-3. **No pretrained multimodal models**: Published studies provide methodology but not deployable model files. A reproducible multimodal pipeline with accessible weights would benefit the research community.
-
-4. **Training target optimization**: Most clocks predict chronological age. Training directly on mortality or disease outcomes improves clinical utility but has not been applied to multimodal UK Biobank data.
-```

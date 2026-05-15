@@ -1,12 +1,10 @@
-# Multi modal aging clock
+# Multimodal aging clock
 
 ## Repository Link
 https://github.com/danikolbe/opencampus-pytorch-agingclock
 
 ## Description
-This project aims to establish a multimodal aging clock. I am utilizing medical data from a large database which includes:
-metabolomic, proteomic, blood measurements, anthropometric
-
+Project Gap Statement: Existing biological aging clocks predominantly operate on single data modalities and are trained to predict chronological age rather than health outcomes. While the UK Biobank provides unprecedented multimodal data (clinical, proteomic, metabolomic, imaging) on the same individuals, no publicly available model comprehensively integrates these modalities. This project develops a multimodal aging clock that.
 
 
 ### Task Type

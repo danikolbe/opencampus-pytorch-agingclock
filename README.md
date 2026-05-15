@@ -1,12 +1,9 @@
 # Multi modal aging clock
 
 ## Repository Link
-
-[(https://github.com/danikolbe/opencampus-pytorch-agingclock)]
+https://github.com/danikolbe/opencampus-pytorch-agingclock
 
 ## Description
-
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
 This project aims to establish a multimodal aging clock. I am utilizing medical data from a large database which includes:
 metabolomic, proteomic, blood measurements, anthropometric
 

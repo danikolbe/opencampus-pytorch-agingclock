@@ -15,17 +15,18 @@
 ### Target Variable/Label
 - **Label Name:** Age at recruitment
 - **Label Type:** Regression
-- **Label Description:** Biological age - predict this. Then ultimately, assess whether predicted is below or above (i.e., is this person aging quicker or slower than their actual age?)
-- **Label Values:** 
-- **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
+- **Label Description:** Biological age - predict this. Then ultimately, assess whether predicted is below or above age at recruitment (i.e., is this person aging quicker or slower than their actual age?)
+- **Label Values:** A range from 40 to 70.
+- **Label Distribution:** There is a peak around the 60 to 65. Figure is attached.
 
 ### Feature Description
-[Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
+After analysis, I decided to I will be using metabolomic, blood count, blood biochemistry, anthropometry and proteomic data.
+Given that proteomic data is only available for a smaller subset, I will try and create 2 clocks, one featuring proteomic data and one without (but the full set of samples).
 
 **Example format:**
-- **Feature 1 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature 2 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature Group (group_name):** [Description of a group of related features]
+- **Feature Group Metabolomic:** [Description of a group of related features]
+
+
 
 ## Exploratory Data Analysis
 

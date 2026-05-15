@@ -4,7 +4,7 @@
 https://github.com/danikolbe/opencampus-pytorch-agingclock
 
 ## Description
-Project Gap Statement: Existing biological aging clocks predominantly operate on single data modalities and are trained to predict chronological age rather than health outcomes. While the UK Biobank provides unprecedented multimodal data (clinical, proteomic, metabolomic, imaging) on the same individuals, no publicly available model comprehensively integrates these modalities. This project develops a multimodal aging clock that.
+Existing biological aging clocks predominantly operate on single data modalities and are trained to predict chronological age rather than health outcomes. While the UK Biobank provides unprecedented multimodal data (clinical, proteomic, metabolomic, imaging) on the same individuals, no publicly available model comprehensively integrates these modalities. This project develops a multimodal aging clock that.
 
 
 ### Task Type

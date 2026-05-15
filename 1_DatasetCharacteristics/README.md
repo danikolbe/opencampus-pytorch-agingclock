@@ -13,10 +13,10 @@
 - **Number of Features:** 
 
 ### Target Variable/Label
-- **Label Name:** [Name of the target variable/column]
-- **Label Type:** [Classification/Regression/Clustering/Other]
-- **Label Description:** [What does this label represent? What is the prediction task?]
-- **Label Values:** [For classification: list of classes and their meanings. For regression: range of values. For other tasks: describe the label structure]
+- **Label Name:** Age at recruitment
+- **Label Type:** Regression
+- **Label Description:** Biological age - predict this. Then ultimately, assess whether predicted is below or above (i.e., is this person aging quicker or slower than their actual age?)
+- **Label Values:** 
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
 ### Feature Description
